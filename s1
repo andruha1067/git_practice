@@ -7,7 +7,6 @@ int main()
    int num = 100;
    double num2= 150.00;
    
-   cout << num << " " << num2 << endl;
 
 
    return 0;
